@@ -68,3 +68,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+### `npm run e2e-driver`
+
+first go to following path "{project-folderr}/node_modules/.bin" and then run it above command(this command only used first time run for before protractor run)
+
+
+### `npm run e2e`
+Finally after webdriver updated, then run to above command headline
